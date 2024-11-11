@@ -18,3 +18,7 @@ The data is dynamically displayed on the webpage for easy browsing. It utilizes 
 3. Each character's information is added to the webpage, allowing users to browse characters from the *Rick and Morty* universe.
 
 Enjoy exploring!
+## Results Railway
+<p align="center">
+  <img src="Img/Railway.PNG" alt="Railway">
+</p>
