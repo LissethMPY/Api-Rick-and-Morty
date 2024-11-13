@@ -18,6 +18,18 @@ The data is dynamically displayed on the webpage for easy browsing. It utilizes 
 3. Each character's information is added to the webpage, allowing users to browse characters from the *Rick and Morty* universe.
 
 Enjoy exploring!
+## Railway Deployment
+
+The "Rick and Morty Character Viewer" is deployed on Railway. You can explore the live application using the link below.
+
+### Live Website Link:
+
+[Visit the project on Railway](https://api-rick-and-morty-production-afda.up.railway.app/)
+
+> **Note**  
+> - Access the live webpage to explore characters from the Rick and Morty universe.  
+> - The page is fully functional and hosted on Railway for easy access.
+
 ## Results Railway
 <p align="center">
   <img src="Img/Railway.PNG" alt="Railway">
